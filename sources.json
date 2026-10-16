@@ -1,0 +1,55 @@
+{
+  "name": "LibreTV 精选源 2026-10-16",
+  "version": 1,
+  "sources": [
+    {
+      "name": "最大资源",
+      "url": "https://api.zuidapi.com/api.php/provide/vod",
+      "detail": "https://api.zuidapi.com",
+      "isAdult": false
+    },
+    {
+      "name": "巨量",
+      "url": "https://api.juliang.live/api/provide/vod",
+      "detail": "https://api.juliang.live",
+      "isAdult": false
+    },
+    {
+      "name": "360资源",
+      "url": "https://360zy.com/api.php/provide/vod",
+      "detail": "https://360zy.com",
+      "isAdult": false
+    },
+    {
+      "name": "光速",
+      "url": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8",
+      "detail": "https://api.guangsuapi.com",
+      "isAdult": false
+    },
+    {
+      "name": "量子",
+      "url": "https://cj.lziapi.com/api.php/provide/vod",
+      "detail": "https://cj.lziapi.com",
+      "isAdult": false
+    },
+    {
+      "name": "猫眼资源",
+      "url": "https://api.maoyanapi.top/api.php/provide/vod",
+      "detail": "https://api.maoyanapi.top",
+      "isAdult": false
+    },
+    {
+      "name": "非凡",
+      "url": "https://cj.ffzyapi.com/api.php/provide/vod",
+      "detail": "https://cj.ffzyapi.com",
+      "isAdult": false
+    },
+    {
+      "name": "魔都",
+      "url": "https://www.mdzyapi.com/api.php/provide/vod",
+      "detail": "https://www.mdzyapi.com",
+      "isAdult": false
+    }
+  ],
+  "liveSources": []
+}
